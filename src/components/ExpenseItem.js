@@ -1,6 +1,7 @@
 import './ExpenseItem.css';
 import ExpenseDate from './ExpenseDate';
 import React, {useState} from "react";
+import NewExpense from "./NewExpense";
 
 function ExpenseItem(props) {
     // const expenseDate = new Date(2021, 3, 28);
